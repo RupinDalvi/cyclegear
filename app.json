@@ -1,0 +1,10 @@
+
+// app.json
+{
+  "expo": {
+    "name": "GearShiftApp",
+    "slug": "GearShiftApp",
+    "platforms": ["android", "windows"],
+    "sdkVersion": "48.0.0"
+  }
+}

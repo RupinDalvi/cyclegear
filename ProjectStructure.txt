@@ -1,0 +1,32 @@
+/*
+Project: GearShiftApp (React Native + Expo + Windows)
+
+File structure:
+  /package.json
+  /tsconfig.json
+  /app.json
+  /babel.config.js
+  /App.tsx
+  /src/
+    types.ts
+    database.ts
+    gpxParser.ts
+    segmentEngine.ts
+    screens/
+      ImportScreen.tsx
+      MapScreen.tsx
+    components/
+      ElevationChart.tsx
+      GearStatus.tsx
+      SegmentModal.tsx
+*/
+
+
+
+
+
+
+
+
+
+
